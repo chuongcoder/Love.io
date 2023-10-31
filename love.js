@@ -8,7 +8,7 @@ const noBtnRect = noBtn.getBoundingClientRect();
 
 
 yesBtn.addEventListener('click',() => {
-  question.innerHTML = 'Mình biết mà ^^';
+  question.innerHTML = 'Cảm ơn cậu ^^';
 });
 
 noBtn.addEventListener('mouseover',() => {
